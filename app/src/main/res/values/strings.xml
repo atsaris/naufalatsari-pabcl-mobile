@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aktor_Favorit</string>
+    <string name="actor">Aktor</string>
+    <string name="detail">Detail</string>
+    <string name="nationality">Nationality</string>
+    <string name="movies">Movies</string>
+</resources>
